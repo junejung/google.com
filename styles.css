@@ -1,0 +1,60 @@
+body {
+  margin : 0px;
+  font-family: arial, sans-serif;
+}
+
+.topbar {
+	background-color: black; 
+	height: 30px;
+}
+
+.topmanu {
+	padding: 7px; 
+	color: gray;
+	font-weight:bold;
+	font-size: small;
+	font-family: arial;
+	height: 30px;
+}
+
+.topmanu div {
+	float: left;
+	margin: 0 10px;
+}
+
+.account {
+	padding:10px;
+	text-align: right;
+	font-size: small;
+	color: gray;
+}
+
+.main {
+	padding-top:110px;
+    text-align:center;
+}
+
+
+.buttons {
+	text-align:center;
+	color:black;
+}
+.button1, .button2 {
+	color:#505050;
+	background-color:transparent;
+	display:inline-block;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	padding:7px 7px;
+	text-decoration:none;
+	border:1px solid #dcdcdc;
+	border-radius:2px;
+	margin: 0 7px;
+}
+
+
+.searchbar { 
+	padding : 20px;
+	text-align: center;
+}
